@@ -16,4 +16,4 @@ The dataset is from kaggle.Links:
 
 
 ## Note
-This project is to learn basics about data analysis like data collection, data cleaning, analyzing the Data, data visualization, obtaining insights from the data and do some basic text processing to help in obtining more insights from the data
+This project is to learn basics about data analysis like data collection, data cleaning, analyzing the Data, data visualization, obtaining insights from the data and do some basic text processing to help in obtaining more insights from the data
